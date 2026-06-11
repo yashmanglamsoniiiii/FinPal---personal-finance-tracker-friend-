@@ -18,8 +18,7 @@ How does FinPal work under the hood? Let's break down the magic tools we used:
   
 * **🎬 Framer Motion (The Physics Engine):** Usually, digital animations look robotic. Framer Motion acts like invisible rubber bands and springs attached to your UI blocks. When a window pops up, it bounces and slides naturally, obeying the laws of virtual physics.
   
-* **📊 Chart.js & React-Chartjs-2:** This tool takes messy piles of numbers (like your daily expenses) and paint
-* s them into beautiful, easy-to-read colorful pie charts and line graphs instantly.
+* **📊 Chart.js & React-Chartjs-2:** This tool takes messy piles of numbers (like your daily expenses) and paints them into beautiful, easy-to-read colorful pie charts and line graphs instantly.
 
 ---
 
