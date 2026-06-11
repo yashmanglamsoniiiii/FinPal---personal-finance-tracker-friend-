@@ -4,16 +4,22 @@ FinPal is a futuristic, Gen Z-inspired web application that turns boring money m
 
 ---
 
-## 🧭 The Tech Stack: Explained for a 5-Year-Old 🧸
+## 🧭 The Tech Stack:Detailed Explaination 
 
 How does FinPal work under the hood? Let's break down the magic tools we used:
 
 * **⚛️ React 19:** Think of React as a box of Lego bricks. Instead of building a whole castle out of one massive piece of plastic, React lets us build small, reusable bricks (like a login card, a button, or a menu item) and snap them together seamlessly.
+  
 * **⚡ Vite:** Imagine you are drawing a picture. Old tools make you wait for the ink to dry completely before you can see your changes. Vite is like a magic pencil—the exact millisecond you change a line of code, it instantly appears on your screen without reloading.
+ 
 * **🎨 CSS Keyframes & Glassmorphism:** We used special styling stylesheets to make the app look like it is made of frosted glass glowing with neon lights. It uses the computer's graphics card to stay fast and shiny.
+ 
 * **🛸 Three.js (The 3D Engine):** Normal websites are flat, like a piece of paper. Three.js gives the browser a pair of 3D glasses! It allows us to create real math-based shapes (like spheres and cylinders), paint them with shiny metallic textures, and light them up with digital spotlights.
+  
 * **🎬 Framer Motion (The Physics Engine):** Usually, digital animations look robotic. Framer Motion acts like invisible rubber bands and springs attached to your UI blocks. When a window pops up, it bounces and slides naturally, obeying the laws of virtual physics.
-* **📊 Chart.js & React-Chartjs-2:** This tool takes messy piles of numbers (like your daily expenses) and paints them into beautiful, easy-to-read colorful pie charts and line graphs instantly.
+  
+* **📊 Chart.js & React-Chartjs-2:** This tool takes messy piles of numbers (like your daily expenses) and paint
+* s them into beautiful, easy-to-read colorful pie charts and line graphs instantly.
 
 ---
 
